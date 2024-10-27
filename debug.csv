@@ -1,0 +1,9 @@
+﻿Name,Description,Quantity,Price,Recipe
+in1,des1,3,72,NONE
+in2,des2,0,138,in1;
+in3,des3,0,103,in2;
+in4,des4,0,185,in2 in3;
+in5,des5,0,185,in4;
+in6,des6,0,97,in1 in5;
+in7,des7,0,56,NONE
+in8,des8,0,87,in2 in7;
