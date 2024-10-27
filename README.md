@@ -1,0 +1,1 @@
+This was a college term project to create the necessary classes for implementing a monster turn-based game. While the functionality for the classes was implemented, creating a game loop was out-of-scope.
